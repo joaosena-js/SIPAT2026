@@ -58,7 +58,7 @@
                 rgba(10, 27, 74, 0.88) 40%,
                 rgba(0, 71, 184, 0.68) 75%,
                 rgba(23, 180, 242, 0.55) 100%),
-            url("img/Fundo.png");
+            url("Fundo.png");
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
